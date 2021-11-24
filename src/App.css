@@ -1,0 +1,21 @@
+
+nav {
+  background-color: chocolate;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+li {
+  margin: 20px 10px;
+}
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+  color: brown;
+}
+
